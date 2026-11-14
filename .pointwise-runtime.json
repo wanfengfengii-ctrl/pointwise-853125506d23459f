@@ -4,11 +4,10 @@
   "setup": [],
   "verify": [
     "python3",
-    "checks.py"
+    "verify.py"
   ],
   "demo": [
     "python3",
-    "checks.py",
-    "demo"
+    "demo.py"
   ]
 }
